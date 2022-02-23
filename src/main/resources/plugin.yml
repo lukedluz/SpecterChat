@@ -1,0 +1,13 @@
+name: HubChat
+authors: [BaconCodes]
+version: 1.0
+main: com.lucas.specterchat.Main
+commands:
+  c:
+    aliases: [.]
+  a:
+  s:
+  g:
+  tell:
+  r:
+  chat:
